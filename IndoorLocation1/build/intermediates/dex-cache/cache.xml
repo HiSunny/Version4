@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\IndoorLocation1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="95fd37732ec852e99f07eeb516a3650172f1d136">
+        <dex dex="D:\AndroidStudioProjects\IndoorLocation1\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-21.0.0_a1ea6bce95784f778dcd0765ba6851522b4333ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\IndoorLocation1\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="D:\AndroidStudioProjects\IndoorLocation1\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.0_c7b878af5c99184e09b570306ed5af6802741c82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\IndoorLocation1\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\jars\libs\internal_impl-21.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="D:\AndroidStudioProjects\IndoorLocation1\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.0_8574f2bd048b3cc139aba7626904df8a8a144177.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\IndoorLocation1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b1bec17e30e1d209d5fbc007c52f6a69c14d40b3">
+        <dex dex="D:\AndroidStudioProjects\IndoorLocation1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_d7db6cedf58e6e500b34119888d68ea77be47122.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\IndoorLocation1\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="D:\AndroidStudioProjects\IndoorLocation1\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.0_c7b878af5c99184e09b570306ed5af6802741c82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\adt-bundle-windows-x86-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.0\support-annotations-21.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="D:\AndroidStudioProjects\IndoorLocation1\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.0_f5d9553760e3657076cfb72609d95bab0170d550.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\IndoorLocation1\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\jars\libs\internal_impl-21.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="D:\AndroidStudioProjects\IndoorLocation1\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.0_8574f2bd048b3cc139aba7626904df8a8a144177.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\adt-bundle-windows-x86-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.0\support-annotations-21.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="D:\AndroidStudioProjects\IndoorLocation1\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.0_f5d9553760e3657076cfb72609d95bab0170d550.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\IndoorLocation1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="95fd37732ec852e99f07eeb516a3650172f1d136">
+        <dex dex="D:\AndroidStudioProjects\IndoorLocation1\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-21.0.0_a1ea6bce95784f778dcd0765ba6851522b4333ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidStudioProjects\IndoorLocation1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="00fc58ac63c2086b3cef64e65e1bbee10a294bb6">
+        <dex dex="D:\AndroidStudioProjects\IndoorLocation1\app\build\intermediates\pre-dexed\debug\instant-run_6c853c5681ca6a7ab14402f6ba6a7d7d53fce179.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,32 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 21
+    buildToolsVersion "23.0.3"
+
+    aaptOptions {
+                 cruncherEnabled = false
+                 useNewCruncher = false
+
+             }//Error:java.lang.RuntimeException: Some file crunching failed, see logs for details自己添加的
+    defaultConfig {
+        applicationId "sunny.example.indoorlocation"
+        minSdkVersion 8
+        targetSdkVersion 17
+        compileOptions {
+            sourceCompatibility JavaVersion.VERSION_1_7
+            targetCompatibility JavaVersion.VERSION_1_7
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:appcompat-v7:21.0.0'
+}
